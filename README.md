@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrakondi&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrakondi" /> </p>
 
-- 🌱 I’m currently learning **Rest API**
+- 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 💬 Ask me about **python, django, Rest API, mysql, html, css, javascript and git**
+- 💬 Ask me about **Python, Django, Rest API, MySQL, HTML, CSS, JavaScript & GIT**
 
 - 📫 How to reach me **chinnamahendra88@gmail.com**
 

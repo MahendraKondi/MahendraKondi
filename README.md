@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrakondi&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrakondi" /> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Python, Django, Rest API, MySQL, HTML, CSS, JavaScript & GIT**
 
